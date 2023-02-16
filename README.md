@@ -108,9 +108,13 @@ He has worked as a Research Associate at a public policy think-tank in Lagos, Ni
 
 ## Association Membership
 •	American Water Resources Association (AWRA) (Student member) 
+
 •	Tennessee Geographic Information Council (TNGIC) (Student member)
+
 •	American Association of Geographers (AAG) (Graduate member)
+
 •	American Society for Photogrammetry and Remote Sensing (ASPRS) (Student member)
+
 •	American Water Works Association (AWWA) (Student member)
 
 
