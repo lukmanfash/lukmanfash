@@ -1,7 +1,7 @@
 ### Welcome to my Page!
 
 ## Introduction
-- A geoscientist with professional experience in energy and environmental policy research, and traineeship experiences in GIS and Earth observation data analytics, groundwater prospecting, water quality control, and sustainability reporting.
+- A geoscientist with professional experience in energy and environmental policy research, GIS and Earth observation data analytics, groundwater prospecting, water quality control, and sustainability reporting.
 
 ## About Me
 Lukman Fashina is a doctoral student in the Department of Geography and Sustainability (GIScience and remote Sensing) where his research interests focus on GIS, remote sensing, environmental change monitoring, and hydrologic modeling. His previous research explored the water quality of karst springs as a private water supply source in northeast Tennessee, and GIS-based DRASTIC modeling of intrinsic groundwater vulnerability to contamination in Pennsylvania.
