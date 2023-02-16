@@ -27,7 +27,8 @@ He has worked as a Research Associate at a public policy think-tank in Lagos, Ni
 
 ## Other Research 
 •	GIS-based Assessment of Groundwater Vulnerability to Contamination in Pennsylvania, USA, using DRASTIC Model.
-[Geospatial Analysis of the Effect of Land Use resulting from Urbanization on Surface Water Quality in Massachusetts(https://sites.tufts.edu/gis/files/2020/07/fashina_lukman_UEP232_Fall2019.pdf)
+
+• [Geospatial Analysis of the Effect of Land Use resulting from Urbanization on Surface Water Quality in Massachusetts(https://sites.tufts.edu/gis/files/2020/07/fashina_lukman_UEP232_Fall2019.pdf)
 
 
 ## Grants
