@@ -3,7 +3,7 @@
 Lukman Fashina is a doctoral student in the Department of Geography and Sustainability (GIScience and remote Sensing) where his research interests focus on GIS, remote sensing, environmental change monitoring, and hydrologic modeling. His previous research explored the water quality of karst springs as a private water supply source in northeast Tennessee, and GIS-based DRASTIC modeling of intrinsic groundwater vulnerability to contamination in Pennsylvania.
 Lukman earned his BSc in geology from University of Ibadan, Nigeria and an MSc in petroleum geoscience from Pan African University, Nigeria and M.S. degrees in sustainable water management from Tufts University and geosciences (Major: geospatial analysis) from East Tennessee State University
 He has worked as a Research Associate at a public policy think-tank in Lagos, Nigeria where he specialized in energy and environmental policy research and performed research design and evaluation on sustainable development issues within Nigeria. His work experience in hydrogeological and environmental fields have enhanced his understanding of the complexity of water resources management. Among his numerous honors and awards, Lukman is an American Water Resources Association's (AWRA) Rising Star 2021-2022 and an awardee of the Richard A. Herbert Memorial Graduate Masters Division Scholarship. When he is not studying, he enjoys volunteering and has previously volunteered in numerous educational and community development services.
-# Introduction
+## Introduction
 - A geoscientist with professional experience in energy and environmental policy research, GIS and Earth observation data analytics, groundwater prospecting, water quality control, and sustainability reporting.
 
 
@@ -14,29 +14,29 @@ He has worked as a Research Associate at a public policy think-tank in Lagos, Ni
 
 **lukmanfash/lukmanfash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Employment
+## Employment
 - [University of Tennessee, Knoxville](https://geography.utk.edu/about-us/people/graduate-students/)
 - [Science Systems and Applications, Inc. (SSAI)- NASA](https://appliedsciences.nasa.gov/about/our-team/lukman-fashina)
 - [Center for Public Policy Alternatives](https://cpparesearch.org/about-us/our-team/)
 
-# Projects
+## Projects
 - [Geospatial Assessment of Karst Springwater Quality in Northeast Tennessee, USA](https://doi.org/10.3390/geosciences12080303)
 - [Granulometric, Heavy Mineral, and Field Studies of the Lokoja Bassange and Fugar Sandstone Outcrop Sequences on the Benin Flank of the Anambra Basin, Southeastern    Nigeria](https://www.elixirpublishers.com/articles/1392095853_67 (2014) 21475-21485.pdf)
 
 
-# Other Research 
+## Other Research 
 •	GIS-based Assessment of Groundwater Vulnerability to Contamination in Pennsylvania, using DRASTIC Model.
 
 • [Geospatial Analysis of the Effect of Land Use resulting from Urbanization on Surface Water Quality in Massachusetts(https://sites.tufts.edu/gis/files/2020/07/fashina_lukman_UEP232_Fall2019.pdf)
 
 
-# Grants
+## Grants
 •	SafeWatch Program of Tennessee Department of Health – US CDC National Centers for Environmental Health Research Grants 2021. ($11,138)
 
 •	ETSU College of Graduate School Research Grants 2021. ($1000)
 
 
-# Honors & Awards
+## Honors & Awards
 •	Isobel Griscom Graduate School Fellowship, University of Tennessee, Knoxville. 2022-2023
 
 •	Graduate School Fellowship, University of Tennessee, Knoxville. 2022-2023
@@ -67,7 +67,7 @@ He has worked as a Research Associate at a public policy think-tank in Lagos, Ni
 
 •	Adedayo Adeoye Scholarships Recipient. 2010-2012
 
-# Training & Continuing Professional Development
+## Training & Continuing Professional Development
 •	Machine Learning in Weather & Climate: Massive Open Online Course (MOOC) by the European Center for Medium-Range Weather Forecast (ECMWF) & IFAB (Ongoing).
 
 •	Microsoft Power BI Desktop for Business Intelligence: Online Udemy course (Ongoing).
@@ -90,7 +90,7 @@ He has worked as a Research Associate at a public policy think-tank in Lagos, Ni
 
 •	Climate Change Leadership: Online course by Uppsala University, Sweden. (December 2016).
 
-# Community Involvement 
+## Community Involvement 
 •	Integrated Water Resources Management (IWRM) Committee Member of the American Water Resources Association (AWRA). (2021- Present)
 
 •	Volunteer at the International Students’ Arrival Week event (2021) by the ETSU Multicultural Center, Division of Student Life and Enrollment:  Welcome new international students to the orientation program and One Stop Shop event.
@@ -106,7 +106,7 @@ He has worked as a Research Associate at a public policy think-tank in Lagos, Ni
 •	FELSU Volunteer: Sensitization Campaign for University Admission Seekers from Ede/Egbedore/Ejigbo Federal Constituency, Osun State, Nigeria (2011).
 
 
-# Association Membership
+## Association Membership
 •	American Water Resources Association (AWRA) (Student member) 
 
 •	Tennessee Geographic Information Council (TNGIC) (Student member)
@@ -118,7 +118,7 @@ He has worked as a Research Associate at a public policy think-tank in Lagos, Ni
 •	American Water Works Association (AWWA) (Student member)
 
 
-# Media Coverage
+## Media Coverage
 •	[“ETSU student devotes research to ensure clean drinking water for NETN residents” The Greenville Sun (September 15, 2021)](https://www.greenevillesun.com/features/education/etsu-student-devotes-research-to-clean-drinking-water/article_4b901460-85a6-581a-90a4-8c5333cc445d.html)
 
 •	[“Contaminants Found in East Tennessee Springs” – The Appalachian Voices (November 17, 2022)](https://appvoices.org/2022/11/17/contaminants-tennessee-springs/)
