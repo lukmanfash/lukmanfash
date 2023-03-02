@@ -129,6 +129,9 @@ Conducting microbial water quality analysis at [East Tennessee State University]
 
 ### External Learning Resources (Youtube)
 1) Geospatial Data Science
-A. [Quisheng Wu](https://www.youtube.com/c/Qiushengwu)
-B. [Ujaval Gandhi](https://www.youtube.com/c/spatialthoughts)
+A. [Quisheng Wu](https://www.youtube.com/@giswqs/videos)
+B. [Ujaval Gandhi](https://www.youtube.com/@SpatialThoughts/videos)
 C. [Matt Forrest](https://www.youtube.com/@MattForrest)
+
+2) Python Programming
+A. [Chuck Severance](https://www.youtube.com/@ChuckSeverance/videos)
