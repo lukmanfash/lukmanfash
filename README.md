@@ -5,10 +5,8 @@ Lukman earned his BSc in geology from University of Ibadan, Nigeria and an MSc i
 He has worked as a Research Associate at a public policy think-tank in Lagos, Nigeria where he specialized in energy and environmental policy research and performed research design and evaluation on sustainable development issues within Nigeria. His work experience in hydrogeological and environmental fields have enhanced his understanding of the complexity of water resources management. Among his numerous honors and awards, Lukman is an American Water Resources Association's (AWRA) Rising Star 2021-2022 and an awardee of the Richard A. Herbert Memorial Graduate Masters Division Scholarship. When he is not studying, he enjoys volunteering and has previously volunteered in numerous educational and community development services.
 
 ### Introduction
-- A geoscientist with professional experience in energy and environmental policy research, GIS and Earth observation data analytics, groundwater prospecting, water quality control, and sustainability reporting.
 
-
-- 🌱 I’m currently learning Google Earth Engine, Git, GitHub, Python
+- 🌱 I’m currently learning Geospatial software design, Google Earth Engine, Git, GitHub, Python
 - 👯 I’m looking to collaborate on geospatial data and hydrologic remote sensing research
 - 📫 How to reach me: lfashina@vols.utk.edu
 - 😄 Pronouns: He/Him/His
@@ -123,3 +121,14 @@ He has worked as a Research Associate at a public policy think-tank in Lagos, Ni
 •	[“ETSU student devotes research to ensure clean drinking water for NETN residents” The Greenville Sun (September 15, 2021)](https://www.greenevillesun.com/features/education/etsu-student-devotes-research-to-clean-drinking-water/article_4b901460-85a6-581a-90a4-8c5333cc445d.html)
 
 •	[“Contaminants Found in East Tennessee Springs” – The Appalachian Voices (November 17, 2022)](https://appvoices.org/2022/11/17/contaminants-tennessee-springs/)
+
+### Water Quality Analysis Laboratory Experience
+Conducting microbial water quality analysis at [East Tennessee State University](https://www.etsu.edu/ehome/) [Department of Geosciences Hydrology Lab](https://www.etsu.edu/cas/geosciences/)
+![](https://bloximages.chicago2.vip.townnews.com/greenevillesun.com/content/tncms/assets/v3/editorial/8/d5/8d551a84-8665-5732-b7b7-6051150b1c25/6140f876676a1.image.jpg?resize=1500%2C1190)
+
+
+### External Learning Resources (Youtube)
+1) Geospatial Data Science
+A. [Quisheng Wu](https://www.youtube.com/c/Qiushengwu)
+B. [Ujaval Gandhi](https://www.youtube.com/c/spatialthoughts)
+C. [Matt Forrest](https://www.youtube.com/@MattForrest)
