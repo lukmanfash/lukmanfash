@@ -19,8 +19,9 @@ He has worked as a Research Associate at a public policy think-tank in Lagos, Ni
 - [Center for Public Policy Alternatives](https://cpparesearch.org/about-us/our-team/)
 
 ### Projects
-- [Geospatial Assessment of Karst Springwater Quality in Northeast Tennessee, USA](https://doi.org/10.3390/geosciences12080303)
+- [Fashina, L.; Luffman, I.; Joyner, T.A.; Nandi, A. (2022). Geospatial Assessment of Karst Springwater Quality in Northeast Tennessee, USA. Geosciences 2022, 12, 303](https://doi.org/10.3390/geosciences12080303)
 - [Granulometric, Heavy Mineral, and Field Studies of the Lokoja Bassange and Fugar Sandstone Outcrop Sequences on the Benin Flank of the Anambra Basin, Southeastern    Nigeria](https://www.elixirpublishers.com/articles/1392095853_67 (2014) 21475-21485.pdf)
+- - [Aberle, R., Bernat, R., Corley, M., Fashina, L., Paulekas, K. (2021). Monitoring Surface Water Extents of Remote Stock Ponds in the Southwestern United States Using Earth Observing Systems for Enhanced Water Resources Management. NTRS - NASA Technical Report.](https://ntrs.nasa.gov/citations/20210021450)
 
 
 ### Other Research 
