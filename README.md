@@ -68,7 +68,6 @@ He has worked as a Research Associate in a public policy think-tank in Lagos, Ni
 •	Adedayo Adeoye Scholarships Recipient. 2010-2012
 
 ### Training & Continuing Professional Development
-•	Machine Learning in Weather & Climate: Massive Open Online Course (MOOC) by the European Center for Medium-Range Weather Forecast (ECMWF) & IFAB (Ongoing).
 
 •	Microsoft Power BI Desktop for Business Intelligence: Online Udemy course (Ongoing).
 
