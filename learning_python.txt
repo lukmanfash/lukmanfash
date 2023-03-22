@@ -1,0 +1,7 @@
+In python there are different rules you can follow to name a variable and also different kinds or types of data you can work with.
+In python you can, for example, make a simple list, work with the individual elements in a list using list's methods and python's functions
+In python you can examine the current state of a program and respond appropriately to that state using the if statement, i.e carrying out one or more tests in a specified order.
+In python you can solve an end user's problem by obtaining some information from the user using the input function.
+In python you can iterate tasks for an indefinite or definite number of times until the task is finished using the loop function.
+In python you can create a function to perform a particular task and then call the function.
+In python you read or open files, and save data that will make your programs easier for people to use.
