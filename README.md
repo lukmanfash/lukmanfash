@@ -6,7 +6,7 @@ He has worked as a Research Associate in a public policy think-tank in Lagos, Ni
 
 ### Introduction
 
-- 🌱 Keen interest in Geocomputation, Google Earth Engine, Python, and SQL.
+- 🌱 Interests in Geocomputation, Google Earth Engine, Python, and SQL.
 - 👯 I’m looking to collaborate on geospatial data and hydrologic remote sensing research.
 - 📫 How to reach me: lfashina@vols.utk.edu
 - 😄 Pronouns: He/Him/His
