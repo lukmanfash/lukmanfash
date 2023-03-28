@@ -14,10 +14,11 @@ He has worked as a Research Associate in a public policy think-tank in Lagos, Ni
 **lukmanfash/lukmanfash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Employment
-- [University of Tennessee, Knoxville](https://geography.utk.edu/about-us/people/graduate-students/)
-- [Science Systems and Applications, Inc. (SSAI)- NASA](https://appliedsciences.nasa.gov/about/our-team/lukman-fashina)
-- [Center for Public Policy Alternatives](https://cpparesearch.org/about-us/our-team/)
-- [Tufts International center](https://icenter.tufts.edu/)
+- [University of Tennessee, Knoxville](https://geography.utk.edu/about-us/people/graduate-students/) - Graduate Teaching Assistant
+- [East Tennessee State University, Johnson City](https://www.etsu.edu/cas/geosciences/) - Graduate Teaching Assistant
+- [Science Systems and Applications, Inc. (SSAI)- NASA](https://appliedsciences.nasa.gov/about/our-team/lukman-fashina) - NASA DEVELOP Program Researcher
+- [Center for Public Policy Alternatives](https://cpparesearch.org/about-us/our-team/) - Research Associate - Energy and Environment
+- [Tufts International center](https://icenter.tufts.edu/) - Graduate Program Assistant (Research and Data Analysis)
 
 ### Publications
 - [Fashina, L.; Luffman, I.; Joyner, T.A.; Nandi, A. (2022). Geospatial Assessment of Karst Springwater Quality in Northeast Tennessee, USA. Geosciences 2022, 12, 303](https://doi.org/10.3390/geosciences12080303)
