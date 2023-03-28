@@ -17,6 +17,7 @@ He has worked as a Research Associate in a public policy think-tank in Lagos, Ni
 - [University of Tennessee, Knoxville](https://geography.utk.edu/about-us/people/graduate-students/)
 - [Science Systems and Applications, Inc. (SSAI)- NASA](https://appliedsciences.nasa.gov/about/our-team/lukman-fashina)
 - [Center for Public Policy Alternatives](https://cpparesearch.org/about-us/our-team/)
+- [Tufts International center](https://icenter.tufts.edu/)
 
 ### Publications
 - [Fashina, L.; Luffman, I.; Joyner, T.A.; Nandi, A. (2022). Geospatial Assessment of Karst Springwater Quality in Northeast Tennessee, USA. Geosciences 2022, 12, 303](https://doi.org/10.3390/geosciences12080303)
@@ -31,7 +32,7 @@ He has worked as a Research Associate in a public policy think-tank in Lagos, Ni
 
 
 ### Grants
-•	SafeWatch Program of Tennessee Department of Health – US CDC National Centers for Environmental Health Research Grants 2021. ($11,138)
+• Tennessee Department of Health and US Centers for Disease Control and Prevention under the SafeWatch portion of the Strengthening Environmental Health Capacity (EHC) initiative; federal award number 6 NUE1EH001436-01-01. ($11,138)
 
 •	ETSU College of Graduate School Research Grants 2021. ($1000)
 
