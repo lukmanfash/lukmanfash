@@ -37,10 +37,6 @@ He has worked as a Research Associate in a public policy think-tank in Lagos, Ni
 
 
 ### Honors & Awards
-•	Isobel Griscom Graduate School Fellowship, University of Tennessee, Knoxville. 2022-2023
-
-•	Graduate School Fellowship, University of Tennessee, Knoxville. 2022-2023
-
 •	ETSU Department of Geosciences Best Graduating Student in Geospatial Analysis (concentration). 2022
 
 •	Melinda S. Meade Travel Award. The Health and Medical Geography Specialty Group (HMGSG) of the American Association of Geographers (AAG). 2022.
