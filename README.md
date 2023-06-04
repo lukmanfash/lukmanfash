@@ -96,8 +96,6 @@ He has worked as a Research Associate in a public policy think-tank in Lagos, Ni
 
 •	Tufts Energy Conference (2020): Social Media and Marketing Volunteer.
 
-•	Volunteer and President of Community Development Service on “Family and Community Life Re-orientation”: National Youth Service Corps / MDGs’ Advocacy Project. Rivers State, Nigeria (2013-2014).
-
 •	FELSU Volunteer: Sensitization Campaign for University Admission Seekers from Ede/Egbedore/Ejigbo Federal Constituency, Osun State, Nigeria (2011).
 
 
@@ -121,13 +119,3 @@ He has worked as a Research Associate in a public policy think-tank in Lagos, Ni
 ### Water Quality Analysis Laboratory Experience
 Conducting microbial water quality analysis at [East Tennessee State University](https://www.etsu.edu/ehome/) [Department of Geosciences Hydrology Lab](https://www.etsu.edu/cas/geosciences/)
 ![](https://bloximages.chicago2.vip.townnews.com/greenevillesun.com/content/tncms/assets/v3/editorial/8/d5/8d551a84-8665-5732-b7b7-6051150b1c25/6140f876676a1.image.jpg?resize=1500%2C1190)
-
-
-### External Learning Resources (Youtube)
-1) Geospatial Data Science
-A. [Qiusheng Wu](https://www.youtube.com/@giswqs/videos)
-B. [Ujaval Gandhi](https://www.youtube.com/@SpatialThoughts/videos)
-C. [Matt Forrest](https://www.youtube.com/@MattForrest)
-
-2) Python Programming
-A. [Chuck Severance](https://www.youtube.com/@ChuckSeverance/videos)
