@@ -1,20 +1,18 @@
 # Lukman Fashina
 
-Lukman Fashina is a graduate student in the Department of Geography and Sustainability (Major: GIScience and remote sensing) where his research interests focus on geospatial data science, environmental change monitoring, and hydrologic remote sensing. His previous research explored the water quality of karst springs as a private water supply source in northeast Tennessee, and GIS-based DRASTIC modeling of intrinsic groundwater vulnerability to contamination in Pennsylvania.
+Lukman Fashina's research interests focus on geospatial data science, environmental change monitoring, and hydrologic remote sensing. His previous research explored the water quality of karst springs as a private water supply source in northeast Tennessee, and GIS-based DRASTIC modeling of intrinsic groundwater vulnerability to contamination in Pennsylvania.
 Lukman earned his BSc in geology from University of Ibadan, Nigeria and an MSc in petroleum geoscience from Pan African University, Nigeria, and M.S. degrees in sustainable water management (Water, Energy, and Food track)from Tufts University and geosciences (major: Geospatial Analysis) from East Tennessee State University.
 He has worked as a Research Associate in a public policy think-tank in Lagos, Nigeria where he specialized in energy and environmental policy research and performed research design and evaluation of projects on sustainable development issues within Nigeria. His work experience in hydrogeological and environmental fields have enhanced his understanding of the complexity of water resources management. Among his numerous honors and awards, Lukman is an American Water Resources Association's (AWRA) Rising Star 2021-2022 and an awardee of the Richard A. Herbert Memorial Graduate Masters Division Scholarship. When he is not studying, he enjoys volunteering and has previously volunteered in numerous educational and community development services.
 
 ### Introduction
 
-- 🌱 Interests in Geocomputation, Google Earth Engine, Python, and SQL.
-- 👯 I’m looking to collaborate on geospatial data and hydrologic remote sensing research.
-- 📫 How to reach me: lfashina@vols.utk.edu
+- 🌱 Interests in Geocomputation, geospatial data and hydrologic remote sensing research, Google Earth Engine, Python, and SQL.
+- 📫 How to reach me: lukmanfashina@yahoo.com
 - 😄 Pronouns: He/Him/His
 
 **lukmanfash/lukmanfash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Employment
-- [University of Tennessee, Knoxville](https://geography.utk.edu/about-us/people/graduate-students/) - Graduate Teaching Assistant
 - [East Tennessee State University, Johnson City](https://www.etsu.edu/cas/geosciences/) - Graduate Teaching Assistant
 - [Science Systems and Applications, Inc. (SSAI)- NASA](https://appliedsciences.nasa.gov/about/our-team/lukman-fashina) - NASA DEVELOP Program Researcher
 - [Center for Public Policy Alternatives](https://cpparesearch.org/about-us/our-team/) - Research Associate - Energy and Environment
