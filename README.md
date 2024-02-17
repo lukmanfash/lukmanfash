@@ -13,6 +13,7 @@ He has worked as a Research Associate in a public policy think-tank in Lagos, Ni
 **lukmanfash/lukmanfash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Employment
+- [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - Information and Information Technology Intern
 - [East Tennessee State University, Johnson City](https://www.etsu.edu/cas/geosciences/) - Graduate Teaching Assistant
 - [Science Systems and Applications, Inc. (SSAI)- NASA](https://appliedsciences.nasa.gov/about/our-team/lukman-fashina) - NASA DEVELOP Program Researcher
 - [Center for Public Policy Alternatives](https://cpparesearch.org/about-us/our-team/) - Research Associate - Energy and Environment
