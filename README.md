@@ -67,7 +67,7 @@ He has worked as a Research Associate in a public policy think-tank in Lagos, Ni
 
 ### Training & Continuing Professional Development
 
-•	Microsoft Power BI Desktop for Business Intelligence: Online Udemy course (Ongoing).
+•	Microsoft Power BI Desktop for Business Intelligence: Online Udemy course (2023).
 
 •	Geospatial Information Systems Specialist (GISS), and Applications of GIS for Emergency Management: Federal Emergency Management Agency (FEMA) online courses (2022).
 
@@ -88,7 +88,7 @@ He has worked as a Research Associate in a public policy think-tank in Lagos, Ni
 •	Climate Change Leadership: Online course by Uppsala University, Sweden. (December 2016).
 
 ### Community Involvement 
-•	Integrated Water Resources Management (IWRM) Committee Member of the American Water Resources Association (AWRA). (2021- Present)
+•	Integrated Water Resources Management (IWRM) Committee Member of the American Water Resources Association (AWRA). (2021- 2023)
 
 •	Volunteer at the International Students’ Arrival Week event (2021) by the ETSU Multicultural Center, Division of Student Life and Enrollment:  Welcome new international students to the orientation program and One Stop Shop event.
 
