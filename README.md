@@ -14,15 +14,15 @@ He currently works with the Ontario Public Service as an Information & Informati
 
 ### Employment
 - [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - Information and Information Technology Intern
-- [East Tennessee State University, Johnson City](https://www.etsu.edu/cas/geosciences/) - Graduate Teaching Assistant
-- [Science Systems and Applications, Inc. (SSAI)- NASA](https://appliedsciences.nasa.gov/about/our-team/lukman-fashina) - NASA DEVELOP Program Researcher
-- [Center for Public Policy Alternatives](https://cpparesearch.org/about-us/our-team/) - Research Associate - Energy and Environment
+- [East Tennessee State University, Johnson City](https://www.etsu.edu/cas/geosciences/) - Graduate Assistant
+- [Science Systems and Applications, Inc. (SSAI)- NASA](https://appliedsciences.nasa.gov/about/our-team/lukman-fashina) - NASA DEVELOP Program Intern
 - [Tufts International center](https://icenter.tufts.edu/) - Graduate Program Assistant (Research and Data Analysis)
+- [Center for Public Policy Alternatives](https://cpparesearch.org/about-us/our-team/) - Research Associate - Energy and Environment
 
 ### Publications
 - [Fashina, L.; Luffman, I.; Nandi, A.; Joyner, T.A. (2023). Evaluation of karst spring water quality in northeast Tennessee using water quality indices. Agrosystems, Geosciences & Environment, 6, e20429](https://doi.org/10.1002/agg2.20429)
 - [Fashina, L.; Luffman, I.; Joyner, T.A.; Nandi, A. (2022). Geospatial Assessment of Karst Springwater Quality in Northeast Tennessee, USA. Geosciences 2022, 12, 303](https://doi.org/10.3390/geosciences12080303)
-- [Adeigbe, A. O. O. Buraimo, O. Lukman. (2014). Granulometric, Heavy Mineral, and Field Studies of the Lokoja Bassange and Fugar Sandstone Outcrop Sequences on the Benin Flank of the Anambra Basin, Southeastern Nigeria](https://www.researchgate.net/publication/262468113_Granulometric_Heavy_mineral_and_Field_studies_of_the_Lokoja_Bassange_and_Fugar_Sandstone_outcrop_sequences_on_the_Benin_Flank_of_the_Anambra_Basin_Southeastern_Nigeria)
+- [Adeigbe, A. O. O. Buraimo, O. Lukman. (2014). Granulometric, Heavy Mineral, and Field Studies of the Lokoja Bassange and Fugar Sandstone Outcrop Sequences on the Benin Flank of the Anambra Basin, Southeastern Nigeria](https://www.researchgate.net/publication/] 262468113_Granulometric_Heavy_mineral_and_Field_studies_of_the_Lokoja_Bassange_and_Fugar_Sandstone_outcrop_sequences_on_the_Benin_Flank_of_the_Anambra_Basin_Southeastern_Nigeria)
 - [Aberle, R., Bernat, R., Corley, M., Fashina, L., Paulekas, K. (2021). Monitoring Surface Water Extents of Remote Stock Ponds in the Southwestern United States Using Earth Observing Systems for Enhanced Water Resources Management. NTRS - NASA Technical Report.](https://ntrs.nasa.gov/citations/20210021450)
 
 
