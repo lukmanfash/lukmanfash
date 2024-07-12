@@ -6,14 +6,14 @@ He currently works with the Ontario Public Service as an Information & Informati
 
 ### Introduction
 
-- 🌱 Interests in Geocomputation, geospatial data and hydrologic remote sensing research, Google Earth Engine, Python, and SQL.
+- 🌱 Interests in Research and Data Analytics, Geocomputation, geospatial data and hydrologic remote sensing, Google Earth Engine, Python, and SQL.
 - 📫 How to reach me: lukmanfashina@yahoo.com
 - 😄 Pronouns: He/Him/His
 
 **lukmanfash/lukmanfash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Employment
-- [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - Information and Information Technology Intern
+- [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - Database Specialist- Land & Resources (I&IT) Cluster
 - [East Tennessee State University, Johnson City](https://www.etsu.edu/cas/geosciences/) - Graduate Assistant
 - [Science Systems and Applications, Inc. (SSAI)- NASA](https://appliedsciences.nasa.gov/about/our-team/lukman-fashina) - NASA DEVELOP Program Intern
 - [Tufts International center](https://icenter.tufts.edu/) - Graduate Program Assistant (Research and Data Analysis)
