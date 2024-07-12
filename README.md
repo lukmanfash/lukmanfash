@@ -17,7 +17,7 @@ He currently works with the Ontario Public Service as an Information & Informati
 - [East Tennessee State University, Johnson City](https://www.etsu.edu/cas/geosciences/) - Graduate Assistant
 - [Science Systems and Applications, Inc. (SSAI)- NASA](https://appliedsciences.nasa.gov/about/our-team/lukman-fashina) - NASA DEVELOP Program Intern
 - [Tufts International center](https://icenter.tufts.edu/) - Graduate Program Assistant (Research and Data Analysis)
-- [Center for Public Policy Alternatives](https://cpparesearch.org/about-us/our-team/) - Research Associate - Energy and Environment
+- [Center for Public Policy Alternatives](https://cpparesearch.org/about-us/our-team/) - Research Associate
 
 ### Publications
 - [Fashina, L.; Luffman, I.; Nandi, A.; Joyner, T.A. (2023). Evaluation of karst spring water quality in northeast Tennessee using water quality indices. Agrosystems, Geosciences & Environment, 6, e20429](https://doi.org/10.1002/agg2.20429)
