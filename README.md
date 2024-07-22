@@ -12,6 +12,10 @@ He currently works with the Ontario Public Service providing innovative spatial 
 
 **lukmanfash/lukmanfash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Ongoing Skills Acquisition/Learning:
+- Microsoft Fabric: for data movement, processing, ingestion, transformation, real-time event routing, and report building.
+- Informatica Intelligent Cloud Services: Cloud data integration, data architecture, and data migration.
+
 ### Employment
 - [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - Database Specialist- Land & Resources (I&IT) Cluster
 - [East Tennessee State University, Johnson City](https://www.etsu.edu/cas/geosciences/) - Graduate Assistant
