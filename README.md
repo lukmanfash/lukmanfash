@@ -17,7 +17,7 @@ Experienced in translating complex data into actionable insights, with strong te
 - CDMP Certification
 
 ### Employment
-- [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - Policy Advisor- Enterprise Data Stewardship Division; MPBSDP
+- [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - Policy Advisor- Enterprise Data Stewardship Division; MBPSDP
 - [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - Geomatics Technician- Geospatial Ontario; MNR
 - [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - Database Specialist- Land & Resources (I&IT) Cluster; MNR
 - [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - OIP I&IT Analyst- Community & Services (I&IT) Cluster; EDU
