@@ -6,7 +6,7 @@ Experienced in translating complex data into actionable insights, with strong te
 
 ### Introduction
 
-- 🌱 Interests in Policy Research and (Spatial and Tabular) Data Analytics, Data Governance and Management Geocomputation.
+- 🌱 Interests in Policy Research, (Spatial and Tabular) Data Analytics, Data Governance and Management, and Geocomputation.
 - 📫 How to reach me: lukmanfashina@youtlook.com
 - 😄 Pronouns: He/Him/His
 
