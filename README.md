@@ -3,7 +3,7 @@ A data and policy professional passionate about helping organizations make bette
 
 I enjoy working at the intersection of policy and technology—translating complex data into clear, actionable insights for diverse audiences. My background spans geospatial and tabular data analytics and applied policy research, giving me a well-rounded perspective on solving real-world challenges.
 
-Throughout my career, I’ve taken on leadership roles—whether coordinating cross-functional teams, guiding policy development, mentoring peers, or presenting to senior governance committees—to help drive projects forward and deliver impactful outcomes.
+Throughout my career, I have demonstarted strong leadership ability—whether coordinating cross-functional teams, guiding policy development, mentoring peers, or presenting to senior governance committees—to help drive projects forward and deliver impactful outcomes.
 My long-term goal is to continue shaping data governance practices and advancing the use of data-driven innovation (including AI and geospatial intelligence) to improve public sector decision-making, operational efficiency, and service delivery.
 
 
