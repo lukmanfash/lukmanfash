@@ -1,5 +1,5 @@
 # Lukman Fashina
-Data and policy professional specializing in data governance, geospatial analytics, and evidence-based decision-making within the public sector. Currently a Data Policy Advisor with the Ontario Public Service, leading the development of enterprise data governance frameworks, standards, and tools that enhance data quality, integrity, and compliance.
+Data and policy professional with expertise in data governance, geospatial analytics, and evidence-based policy research within the public sector. Currently a Data Policy Advisor with the Ontario Public Service, supporting the development of enterprise data governance artifacts; policies, standards, guidance and tools that enhance enterprise data interoperability, integrity and compliance.
 Experienced in translating complex data into actionable insights, with strong technical skills in Python, SQL, ArcGIS, and GeoAI. Passionate about leveraging data-driven ability to improve policy, operations, and strategic outcomes.
 
 
