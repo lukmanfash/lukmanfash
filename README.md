@@ -1,23 +1,26 @@
 # Lukman Fashina
+Data and policy professional specializing in data governance, geospatial analytics, and evidence-based decision-making within the public sector. Currently a Data Policy Advisor with the Ontario Public Service, leading the development of enterprise data governance frameworks, standards, and tools that enhance data quality, integrity, and compliance.
+Experienced in translating complex data into actionable insights, with strong technical skills in Python, SQL, ArcGIS, and GeoAI. Passionate about leveraging data-driven ability to improve policy, operations, and strategic outcomes.
 
-Lukman Fashina's interests focus on data analytics, database, geospatial (GIS and remote sensing) data analysis, and environmental change monitoring. His previous research explored the water quality of karst springs as a private water supply source in northeast Tennessee, and GIS-based DRASTIC modeling of intrinsic groundwater vulnerability to contamination in Pennsylvania, USA.
-Lukman earned his BSc in geology from University of Ibadan, Nigeria and an MSc in petroleum geoscience from Pan African University, Nigeria, and M.S. degrees in Sustainable Water Management (Water, Energy, and Food track) from Tufts University and Geosciences (Geospatial Analysis track) from East Tennessee State University.
-He currently works with the Ontario Public Service providing innovative spatial and tabular data analytics and database solutions. He has previously worked as a NASA DEVELOP Intern at SSAI Inc.,. He also worked as a Research Associate in a policy think-tank in Lagos, Nigeria where he specialized in energy and environmental policy research and performed research design and evaluation of projects on sustainable development issues within Nigeria. His work experience in groundwater prosepcting and drilling has enhanced his understanding of the complexity of water resources management. Among his numerous honors and awards, Lukman is an American Water Resources Association's (AWRA) Rising Star 2021-2022 and an awardee of the Richard A. Herbert Memorial Graduate Masters Division Scholarship. When he is not studying, he enjoys volunteering and has previously volunteered in numerous educational and community development services.
+
 
 ### Introduction
 
-- 🌱 Interests in Research and Data Analytics, Geocomputation, geospatial data and hydrologic remote sensing, Google Earth Engine, Python, and SQL.
-- 📫 How to reach me: lukmanfashina@yahoo.com
+- 🌱 Interests in Policy Research and (Spatial and Tabular) Data Analytics, Data Governance and Management Geocomputation.
+- 📫 How to reach me: lukmanfashina@youtlook.com
 - 😄 Pronouns: He/Him/His
 
 **lukmanfash/lukmanfash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Ongoing Skills Acquisition/Learning:
 - Microsoft Fabric: for data movement, processing, ingestion, transformation, real-time event routing, and report building.
-- Informatica Intelligent Cloud Services: Cloud data integration, data architecture, and data migration.
+- CDMP Certification
 
 ### Employment
-- [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - Database Specialist- Land & Resources (I&IT) Cluster
+- [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - Policy Advisor- Enterprise Data Stewardship Division; MPBSDP
+- [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - Geomatics Technician- Geospatial Ontario; MNR
+- [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - Database Specialist- Land & Resources (I&IT) Cluster; MNR
+- [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - OIP I&IT Analyst- Community & Services (I&IT) Cluster; EDU
 - [East Tennessee State University, Johnson City](https://www.etsu.edu/cas/geosciences/) - Graduate Assistant
 - [Science Systems and Applications, Inc. (SSAI)- NASA](https://appliedsciences.nasa.gov/about/our-team/lukman-fashina) - NASA DEVELOP Program Intern
 - [Tufts International center](https://icenter.tufts.edu/) - Graduate Program Assistant (Research and Data Analysis)
