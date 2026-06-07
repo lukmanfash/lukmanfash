@@ -22,7 +22,7 @@ Experienced in translating complex data into actionable insights, with strong te
 - [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - Database Specialist- Land & Resources (I&IT) Cluster; MNR
 - [Ontario Public Service](https://www.ontario.ca/page/about-ontario-public-service) - OIP I&IT Analyst- Community & Services (I&IT) Cluster; EDU
 - [East Tennessee State University, Johnson City](https://www.etsu.edu/cas/geosciences/) - Graduate Assistant
-- [Science Systems and Applications, Inc. (SSAI)- NASA](https://appliedsciences.nasa.gov/about/our-team/lukman-fashina) - NASA DEVELOP Program Intern
+- [Science Systems and Applications, Inc. (SSAI)- NASA](https://appliedsciences.nasa.gov/about/our-team/lukman-fashina) - NASA DEVELOP Geospatial Researcher
 - [Tufts International center](https://icenter.tufts.edu/) - Graduate Program Assistant (Research and Data Analysis)
 - [Center for Public Policy Alternatives](https://cpparesearch.org/about-us/our-team/) - Research Associate
 
